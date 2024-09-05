@@ -7,7 +7,7 @@ function fibonacci(n)
     {
         if(fib_resultado==0)
         {
-            fib_resultado = 1
+            fib_resultado = 1 //serve para repetir o 1 da sequência de Fibonnaci (1,1,2,3,5,8)
         }
         else
         {
